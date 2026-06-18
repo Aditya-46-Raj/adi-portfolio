@@ -76,7 +76,7 @@ const Hero = () => {
             <div className="bg-white/10 backdrop-blur-lg border border-white/20 rounded-2xl p-4 shadow-2xl transition-all hover:shadow-blue-500/20">
               <div className="aspect-square rounded-xl overflow-hidden relative">
                 <img 
-                  src={`${import.meta.env.BASE_URL}lovable-uploads/60cd379d-9991-4338-b6bd-e07ec4892b4d.png`}
+                  src={`${import.meta.env.BASE_URL}uploads/60cd379d-9991-4338-b6bd-e07ec4892b4d.png`}
                   alt="Aditya Raj Profile Image" 
                   className="w-full h-full object-cover"
                   loading="eager"
